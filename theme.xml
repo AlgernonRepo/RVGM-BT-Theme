@@ -248,7 +248,7 @@ Doc ES:			https://github.com/fabricecaruso/EmulationStation/blob/master/THEMES.m
             <verticalAlignment>center</verticalAlignment>
 			<color>${themeLightColor}</color>
 			<fontPath>./_art/font/${fontClock}</fontPath>
-			<fontSize>0.035</fontSize>
+			<fontSize>0.026</fontSize>
 		</text>
 
 		<batteryIndicator name="batteryIndicator">
