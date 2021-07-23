@@ -1,7 +1,7 @@
 Changes from original so far(still need to upload):
 
--expand theme for n64dd, sufami turbo, satellaview, lutro, msx2+, x1
--minor graphical changes fbneo, pokemini, msxturbor, pet
+-expand theme for n64dd, sufami turbo, satellaview, lutro, msxturbor, x1
+-minor graphical changes fbneo, pokemini, msx2+, pet
 -improved english translations where fuzzy
 -improved detailed system info view where it was misalligned pi4 by default on , mainly by abbreviating "home video game console" to "video game console"
 -Shortened some system descriptions that stretched off page
