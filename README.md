@@ -1,3 +1,21 @@
+Changes from original so far:
+
+-expand theme for n64dd, sufami turbo, satellaview, lutro, msx2+, x1
+-minor graphical changes fbneo, pokemini, msxturbor, pet
+-improved english translations where fuzzy
+-improved detailed system info view where it was misalligned pi4 by default on , mainly by abbreviating "home video game console" to "video game console"
+-Shortened some system descriptions that stretched off page
+
+-to do fix 
+-menu clock last digit sometimes goes off screen depending on character length
+-port updated bt-theme to retropie
+
+
+
+
+
+
+[Start Previous Info] 
 # RVGM (Retro Video Game Museum) for  Batocera, EmuElec, Retrobat
 
 
