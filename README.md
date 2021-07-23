@@ -6,9 +6,9 @@ Changes from original so far:
 -improved detailed system info view where it was misalligned pi4 by default on , mainly by abbreviating "home video game console" to "video game console"
 -Shortened some system descriptions that stretched off page
 -c16plus4 not recognized changed to cplus4
+-decreased clock size for use in 12hr mode
 
 -to do fix 
--menu clock last digit sometimes goes off screen depending on character length
 -port updated bt-theme to retropie
 
 
