@@ -1,5 +1,4 @@
-Changes from original so far:
-
+Updates from original so far:
 -expand theme for n64dd, sufami turbo, satellaview, lutro, msx2+, msxturbor, x1
 -minor graphical changes fbneo, pokemini, pet
 -improved english translations where fuzzy
@@ -8,7 +7,7 @@ Changes from original so far:
 -c16plus4 not recognized changed to cplus4
 -decreased clock size for use in 12hr mode
 
--to do fix 
+To Do: 
 -port updated bt-theme to retropie
 
 
