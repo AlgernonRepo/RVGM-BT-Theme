@@ -1,4 +1,4 @@
-Changes from original so far:
+Changes from original so far(still need to upload):
 
 -expand theme for n64dd, sufami turbo, satellaview, lutro, msx2+, x1
 -minor graphical changes fbneo, pokemini, msxturbor, pet
