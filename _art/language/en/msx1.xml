@@ -10,13 +10,13 @@
 Personnal computer
 Third
 1983
-Cartridge, floppy & tape disk
+Cartridge, floppy, tape
 Joystick, mouse, keyboard</text>
 		</text>
 
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------->
-<text>MSX is a standard of microcomputers with domestic vocation of Japanese origin. It dates from the 1980s so that computers produced by various manufacturers were compatible with each other thanks to Microsoft's MSX-DOS 1. MSX stands for Machines with Software eXchangeability, but it is often interpreted as MicroSoft eXtension. The MSX displayed graphics in 256 × 192 pixels with 16 colors and will see the first generation of games converted from the arcade as well as unique pearls such as Penguin Adventure, Exa Inova, Crusader, α-roid, Gall Force.</text>
+<text>MSX is a standard of microcomputers released in Japan. It dates from the 1980s, a time where computers produced by various manufacturers were often compatible with each other thanks to MSX-DOS 1. MSX stands for Machines with Software eXchangeability, but it is often interpreted as MicroSoft eXtension. The MSX displayed graphics in 256 × 192 pixels with 16 colors and saw the first generation of games converted from the arcade. It included gems such as Penguin Adventure, Exa Inova, Crusader, α-roid, and Gall Force.</text>
 		</text>
 		
 	</view>

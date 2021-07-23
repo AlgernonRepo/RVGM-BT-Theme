@@ -6,17 +6,17 @@
 		
 		<text name="sys_info" extra="true">
 <!-- MAX SIZE ~~~~~~~~~~~|~~~ -->
-<text>Sharp Corporation
-Personnal computer
-Third
-1982
-Floppy disk, cassette
-Joypad, keyboard, mouse</text>
+<text>Libretro Team
+2D Game engine
+5.1+
+2014
+.lutro files, .lua files
+Joystick, keyboard, mouse</text>
 		</text>
 		
 		<text name="sys_description" extra="true">
 <!-- MAX SIZE - DEPENDS OF THE WORDS LENGTH ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|~~~~ -->
-<text>The Sharp X1 is the name given to a series of Japanese microcomputers created by Sharp in 1982. Computers of the time had a read only memory programmed in BASIC, where the X1 directly loaded the interpreter from the cassette with access to living memory. The whole series included a Zilog Z80A CPU clocked at 4 MHz, 64 KB of RAM and 3-channel sound. To counter the PC-88, Sharp released the X1 Turbo with a 640x400 resolution instead of the planned 640x200. The X1 Turbo Z featured 4,096 colors. Sharp also made a clone which included functionalities of the PC-Engine.</text>
+<text>Experimental Lua game framework for libretro, following the LÖVE API. Its 2D game framework aims for simplicity and extreme portability. Using lutro, you can develop any kind of 2D retro games, like NES or Genesis games, and run them on a wide range of platforms through RetroArch. Portability is achieved through the libretro API: Lutro is loaded as a plugin in a frontend which takes care of display, audio and inputs. Lutro is software rendered and implements only a subset of the LÖVE API.</text>
 		</text>
 		
 	</view>
